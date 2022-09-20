@@ -52,7 +52,8 @@ nav ul li{
 
 .bottom{
     position: fixed;
-    width: 71%;
+    left:0;
+    width: 100vw;
     height: 120px;
     background-color: black;
     color: white;
